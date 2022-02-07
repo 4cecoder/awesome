@@ -1,4 +1,4 @@
-# awesome
+# them awesomes
 Simple List of Links to `awesome` repos I like
 
 
